@@ -1,0 +1,525 @@
+{5}{43}{y:i}W poprzednim sezonie:
+{43}{187}Pewnego dnia ca³y œwiat|bêdzie znaæ i lêkaæ siê Ivara Bez Koœci.
+{204}{247}{y:i}Musicie szukaæ pomsty.
+{269}{350}{Y:i}- Chcemy krwawej pomsty na Elli.|- Nie tylko na nim.
+{350}{422}Król Egbert zaoferowa³ ojca|niczym ofiarê.
+{422}{489}Królestwo Egberta jest ogromne.|Jak go pokonamy?
+{489}{573}W imieniu naszego martwego ojca,|w imieniu Ragnara Lothbroka,
+{573}{621}wypowiemy wojnê|ca³emu œwiatu.
+{803}{921}Teraz nadszed³ czas wojny.|Czas nienawiœci!
+{945}{976}Do ataku!
+{1084}{1175}- Zostaliœmy pokonani.|- Przeka¿ê ci koronê.
+{1175}{1218}Ocal siebie i swoj¹ rodzinê.
+{1220}{1261}{Y:i}A potem odbierz to,|co do ciebie nale¿y.
+{1319}{1364}Do wielkiej sali!
+{1405}{1513}{y:i}- Kto op³aci³ twoj¹ armiê?|- Król Harald Piêknow³osy.
+{1556}{1652}Otrzymacie ode mnie prawo|do rz¹dzenia Angli¹ Wschodni¹.
+{1654}{1700}{y:i}Przyjmujê twoj¹ propozycjê.
+{1700}{1791}Ale musisz umrzeæ za to,|co uczyni³eœ mojemu ojcu.
+{1803}{1870}{Y:i}Jedyn¹ rzecz¹,|która po³¹czy³a synów Ragnara,
+{1870}{1901}{y:i}by³a œmieræ ich ojca.
+{1904}{1997}Teraz mogê pod¹¿aæ za przeznaczeniem.|Ale moi bracia pozostan¹ tu dla was.
+{1997}{2060}Jesteœmy synami Ragnara.|Musimy trzymaæ siê razem.
+{2060}{2127}Mamy potê¿n¹ armiê|i powinniœmy j¹ wykorzystaæ!
+{2127}{2208}- Nie mo¿esz poprowadziæ armii.|- Którzy z was do mnie do³¹cz¹?
+{2211}{2292}Z pewnoœci¹ nie ja, Ivarze.|Jesteœ szaleñcem.
+{2297}{2328}Ivarze!
+{2642}{2719}.:: GrupaHatak.pl ::.
+{2738}{2784}facebook.pl/GrupaHatak
+{3728}{3827}Wikingowie [5x01-02]|Ci, którzy odeszli
+{3829}{3925}T³umaczenie:|Igloo666
+{5764}{5857}Wiem, o czym wszyscy myœlicie.|Ale mylicie siê.
+{5886}{5934}Nie chcia³em go zabiæ.
+{5968}{6013}Sprowokowa³ mnie do tego.
+{6083}{6181}Drwi³ i szydzi³ ze mnie.|Co mia³em uczyniæ?
+{6219}{6349}Jaki cz³owiek szydzi z w³asnego brata,|opowiadaj¹c o nim k³amstwa?
+{6351}{6440}- O jakich k³amstwach mowa?|- S³ysza³eœ je tak samo jak ja, Hvitserk.
+{6442}{6517}Powiedzia³, ¿e nie jesteœ|prawdziwym mê¿czyzn¹.
+{6651}{6754}A co ty byœ uczyni³,|gdyby powiedzia³ tak do ciebie, Ubbe?
+{6756}{6855}Co byœ zrobi³,|bêd¹c prawdziwym mê¿czyzn¹?
+{6941}{7054}Klnê siê na bogów i wszystko, co œwiête,|¿e nie chcia³em go zabiæ.
+{7056}{7128}Zaœlepi³ mnie gniew.
+{7150}{7207}Nie myœla³em trzeŸwo.
+{7219}{7272}Bardzo tego ¿a³ujê.
+{7694}{7809}- Nie mo¿esz pozostawiæ mu dowództwa.|- To ju¿ twoje zmartwienie, Ubbe.
+{7809}{7900}Jesteœ starszym bratem.|Obejmij dowodzenie.
+{7905}{7967}Mówi³em wam,|¿e to ju¿ nie jest moja sprawa.
+{7967}{8051}Planujê znów wp³yn¹æ|na Morze Œródziemne.
+{8118}{8171}Wraz z Halfdanem.
+{8207}{8332}- Wrócisz najpierw do Kattegat?|- Nie mam takich planów.
+{8382}{8444}Przeznaczenie mnie wzywa.
+{8454}{8533}W takim razie sam tam pop³ynê.
+{8545}{8641}Przeka¿ê Lagercie,|¿e pomœciliœcie ojca
+{8667}{8773}i pokonaliœcie Sasów,|zdobywaj¹c dla nas olbrzymie ziemie.
+{8828}{8886}Przeka¿ mojej matce...
+{8897}{8984}a tak¿e Torvi i dzieciom,|¿e myœlê o nich.
+{9044}{9096}I ¿e powrócê.
+{9135}{9185}O ile taka bêdzie wola bogów.
+{9188}{9245}- Skol.|- Skol.
+{10056}{10113}To miejsce pe³ne jest|duchów i wspomnieñ.
+{10113}{10175}Niech Bóg ma w opiece tych,|którzy to uczynili.
+{10178}{10274}Jeœli jest tu cia³o króla Egberta,|musimy je znaleŸæ!
+{11108}{11161}Za³adujcie to na dziób.
+{11312}{11353}Jesteœ tego pewien?
+{11379}{11444}Nie rozumiem,|dlaczego chcesz mnie opuœciæ.
+{11446}{11513}Jesteœmy braæmi.|Powinniœmy trwaæ przy sobie.
+{11513}{11619}- Dzielimy to samo marzenie.|- Nie. To twoje marzenie.
+{11624}{11679}Pragniesz zostaæ królem Norwegii.
+{11679}{11777}Ja nie marzê o byciu|bratem króla Norwegii.
+{11813}{11883}A o czym?
+{11897}{11990}- Pragnê podró¿owaæ.|- Ale jakie masz ambicje?
+{11998}{12091}Twoich ambicji|wystarczy za nas dwóch, bracie.
+{12091}{12120}Prosty ze mnie cz³owiek.
+{12122}{12218}Podró¿ na koniec znanego œwiata|w zupe³noœci mi wystarczy.
+{12314}{12384}Bêdê za tob¹ têskni³.
+{12436}{12535}Ka¿dy potrzebuje brata,|który bêdzie go wspiera³.
+{12561}{12669}Nadal bêdê przy tobie,|gdziekolwiek siê nie znajdê.
+{12971}{13074}Ruszaj ze swoim nowym kochankiem!|¯yczê wam szczêœcia!
+{13148}{13204}Pora odp³ywaæ.
+{14309}{14383}ZnaleŸliœmy naszego króla.
+{15114}{15146}Musimy odbudowaæ to miejsce,
+{15148}{15220}zbezczeszczone|przez pogañskich barbarzyñców.
+{15220}{15289}Przeka¿cie mieszkañcom,|¿e mog¹ tu wróciæ.
+{15292}{15352}Tak jest, Wasza Mi³oœæ.
+{15992}{16085}Floki! Dlaczego budujesz|tê ³ódkê dla dzieci?
+{16112}{16177}To ¿adna ³ódka dla dzieci.
+{16177}{16246}To jednoosobowa ³ódŸ.
+{16251}{16347}Nie potrzebujê niczyjej pomocy,|by ni¹ sterowaæ.
+{16354}{16428}A dok¹d planujesz pop³yn¹æ?
+{16500}{16582}Dok¹dkolwiek skieruj¹ mnie bogowie.
+{16651}{16704}Nie chcê, byœ odp³ywa³.
+{16706}{16788}Jesteœ mi potrzebny|w wojnie z chrzeœcijanami.
+{16790}{16893}Dobrze wiesz, ¿e moi bracia|nie nadaj¹ siê do tej walki.
+{17049}{17097}Proszê.
+{17248}{17289}Moi bracia...
+{17361}{17462}nie wierz¹,|¿e nie chcia³em zabiæ Sigurda.
+{17493}{17582}Ale naprawdê nie chcia³em.|By³ moim bratem.
+{17661}{17735}Dlatego nie mo¿esz mnie zostawiæ.
+{17802}{17872}Wtedy zostanê sam.
+{18056}{18126}Muszê odp³yn¹æ, Ivarze.
+{18147}{18236}Po œmierci Helgi|nic mnie tu nie trzyma.
+{18265}{18351}Ten œwiat|przesta³ mnie interesowaæ.
+{18368}{18485}Dlatego muszê powierzyæ swój los|falom, wiatrom i bogom.
+{18500}{18562}Pop³yñ ze mn¹.
+{18615}{18668}Moje serce cierpi.
+{18723}{18766}To minie.
+{18881}{18972}Ivar Bez Koœci.|Plaga tego œwiata.
+{19020}{19073}Nie potrzebujesz mnie.
+{20586}{20689}Sk³adamy do grobu cia³o Egberta,|króla Mercji i Wessex,
+{20689}{20761}bretwaldy, króla królów.
+{20780}{20830}Wspomnijmy s³owa Pana:
+{20833}{20895}"Ja jestem zmartwychwstaniem|i ¿yciem.
+{20895}{20974}Kto we Mnie wierzy,|choæby i umar³, ¿yæ bêdzie.
+{20974}{21106}Ka¿dy, kto ¿yje i wierzy we Mnie,|nie umrze na wieki".
+{21140}{21192}Amen.
+{21298}{21387}- Dlaczego ciê oszczêdzili?|- Nie wiem.
+{21391}{21449}Nie zwracali na mnie uwagi.
+{21449}{21547}Gdy nadarzy³a siê okazja,|uciek³em i ukry³em siê.
+{21562}{21629}Co tutaj robi³eœ?
+{21629}{21751}Spisa³em i poœwiadczy³em traktat|miêdzy królem Egbertem a synami Ragnara.
+{21756}{21845}Otrzymali w posiadanie|Angliê Wschodni¹.
+{21936}{21998}Nawet w obawie przed œmierci¹|król Egbert nie powinien
+{21998}{22087}przekazywaæ tym poganom|czêœci swojego dziedzictwa.
+{22087}{22163}- Nie przekaza³.|- To znaczy?
+{22195}{22264}Nie mia³ do tego prawa.
+{22341}{22442}- Wyt³umacz te œmia³e s³owa.|- Przed odes³aniem swojej rodziny
+{22444}{22564}król Egbert abdykowa³ na rzecz syna,|ksiêcia Ethelwulfa.
+{22856}{22969}Zatem Ethelwulf jest teraz królem,|a przekazanie ziemi jest niewa¿ne.
+{22969}{23048}- Zgadza siê.|- Król nie ¿yje.
+{23106}{23156}Niech ¿yje król.
+{25170}{25218}Jak siê czuje?
+{25486}{25520}Alfredzie!
+{25611}{25666}Umiera?
+{25765}{25803}Nie wiem.
+{25906}{25940}Nie mam pojêcia.
+{26194}{26227}{y:i}Sprawdzaj¹ siê s³owa Ojca Œwiêtego.
+{26249}{26302}Bóg sprowadzi³ tu Normanów,
+{26302}{26462}by ukaraæ nas za nasz¹ pró¿noœæ,|nikczemnoœæ i niegodziwoœæ.
+{26493}{26599}- Sk¹d ta pewnoœæ, Ethelwulfie?|- Bo...
+{26685}{26793}Bo jak inaczej zrozumieæ nieszczêœcia,|które na nas spad³y?
+{26882}{26954}No tak, oczywiœcie!|To sprawka Boga!
+{26954}{27033}Alfred musi teraz umrzeæ|za nasze grzechy.
+{27045}{27105}Za moje grzechy!
+{27126}{27170}Nie!
+{27194}{27275}Nikt nie jest bez grzechu, Judyto!
+{27280}{27407}I mogê siê jedynie modliæ o to,|by Bóg okaza³ nam mi³osierdzie.
+{27419}{27529}By pob³ogos³awi³ nas|i znów spojrza³ na nas przychylnie.
+{28299}{28380}Planujesz odp³yn¹æ bez s³owa, Floki?
+{28543}{28618}Nie chcia³em, ¿ebyœcie marnowali czas,|próbuj¹c mnie powstrzymaæ.
+{28620}{28680}Ale i tak spróbujemy.
+{28733}{28788}Nic z tego.
+{28810}{28870}Po¿egnajmy siê zatem.
+{28893}{28982}- Dok¹d siê wybierasz?|- Tam, dok¹d zaprowadz¹ mnie bogowie.
+{28982}{29054}Ale póki ¿yjê i oddycham,
+{29061}{29186}wy, synowie Ragnara Lothbroka,|zawsze bêdziecie bliscy mojemu sercu.
+{29356}{29399}¯egnaj, Floki.
+{29423}{29531}Jesteœ najlepszym budowniczym ³odzi,|jaki kiedykolwiek ¿y³.
+{29584}{29677}¯egnaj, Floki.|Ulubieñcu bogów.
+{29903}{29963}Ty koœlawy g³upcze.
+{29994}{30049}Zostañ.
+{30052}{30107}Potrzebujemy ciê tak samo|jak kiedyœ nasz ojciec.
+{30107}{30183}Ale ty wolisz uciec, tchórzu.
+{30193}{30270}Wstañ i powiedz mi to w twarz.
+{30699}{30790}To prawda?|Powierzy³ swój los morzu?
+{30828}{30876}Nie martwcie siê.
+{30879}{30963}Da³em mu coœ,|co pomo¿e mu w podró¿y.
+{30991}{31061}Nie chcemy go straciæ.
+{31502}{31641}{y:i}Niech ¿yje Floki!
+{32243}{32358}Egbercie, mój mêczeñski królu,|wys³uchaj mej modlitwy.
+{32365}{32483}Niech gniew bo¿y spadnie na pogan,|którzy bezczeszcz¹ oœrodki naszej wiary.
+{32487}{32564}Niech ucierpi¹ z naszych r¹k.
+{32569}{32689}Wyr¿niemy ich w bitwie.|Zetniemy jak ³any podczas ¿niw.
+{32715}{32780}Radujmy siê ich zgub¹
+{32780}{32864}i zepchnijmy ich do morza,|z którego przybyli.
+{32864}{32974}Niech Koœció³ Bo¿y uzbroi siê|przeciwko tym wyznawcom diab³a.
+{32979}{33113}Niech ta wojna nie skoñczy siê,|dopóki ¿yje choæby jeden z nich.
+{33137}{33243}Egbercie! Mêczenniku!|Wys³uchaj mej modlitwy.
+{33698}{33753}Nie lêkajcie siê.
+{33758}{33847}Chrystus jest poœród nas.|Jesteœcie bezpieczni.
+{33938}{33974}Wasza Mi³oœæ.
+{34096}{34161}Bardzo dziêkujê.
+{34161}{34257}Niech Bóg ciê b³ogos³awi,|biskupie Heahmundzie.
+{34480}{34593}A skoro mowa o ojcu, to powinniœmy|osiedliæ siê na otrzymanej ziemi.
+{34607}{34705}Sasi s¹ w rozsypce.|To dobra okazja do dzia³ania.
+{34708}{34813}Mamy wszystko, czego potrzeba|do za³o¿enia sta³ej kolonii.
+{34864}{34964}- Zgadzasz siê, Ivarze?|- Nie chcê rozwi¹zywaæ armii.
+{34981}{35086}Chcê kontynuowaæ wojnê,|póki mamy przewagê.
+{35103}{35206}Ruszajmy ponownie na pó³noc.|Tam, gdzie pokonaliœmy Ellê.
+{35235}{35314}I te¿ uwa¿am,|¿e powinniœmy za³o¿yæ osadê,
+{35314}{35417}ale bli¿ej wybrze¿a, by sta³a siê|nasz¹ baz¹ wypadow¹ do dalszych ataków.
+{35446}{35547}Nasz ojciec marzy³,|abyœmy nie byli tylko ³upie¿cami.
+{35554}{35652}- Chcia³, byœmy ¿yli w inny sposób.|- Nie s³uchasz mnie, Ubbe.
+{35655}{35722}Musimy mieæ prawdziw¹ fortecê.
+{35722}{35825}Jeœli udamy siê na pó³noc,|znajdziemy siê bli¿ej naszej ojczyzny.
+{35825}{35882}£atwiej te¿ bêdzie sprowadzaæ zapasy.
+{35882}{35957}Mo¿emy zbudowaæ|twierdzê nie do zdobycia.
+{35959}{36053}- Gdzie?|- S³ysza³em o mieœcie zwanym York.
+{36122}{36209}Zbudowano je przy du¿ej rzece|niedaleko morza.
+{36209}{36288}Powinniœmy je zdobyæ.
+{36343}{36403}Nie. Bêdzie wygl¹daæ,|jakbyœmy siê wycofywali.
+{36405}{36494}Dok³adnie.|Ale to tylko pozory.
+{36527}{36595}Na pewno pojmujesz,
+{36595}{36707}¿e jeœli za³o¿ymy bazê w œrodku kraju,|wrogowie bêd¹ nas otaczaæ.
+{36710}{36782}W Yorku bêdziemy bli¿ej domu.
+{36822}{36887}Prawda, Hvitserk?
+{37009}{37117}Zgadzam siê z Ivarem.|Ruszajmy na pó³noc i zaatakujmy York.
+{37237}{37283}Dobrze.
+{38448}{38498}Dziêkujê, Ivarze.
+{39076}{39174}W koœciele czeka na ciebie|jakaœ niewiasta, panie.
+{39426}{39520}Oka¿ nam mi³osierdzie|i zapewnij ochronê. Amen.
+{39522}{39604}- Za kogo siê modlisz?|- Za nas wszystkich.
+{39606}{39675}Nasta³y straszne czasy.
+{39678}{39762}- Jak masz na imiê?|- Aethelgyth.
+{39874}{39946}Pomyœl nad w³asn¹ dusz¹.
+{39973}{40040}Przyjmiesz ode mnie komuniê?
+{40107}{40155}Uklêknij.
+{41493}{41574}Panie, przebacz|temu nêdznemu grzesznikowi!
+{41637}{41723}Zgrzeszy³em|w myœlach i czynach!
+{41766}{41843}B³agam, przebacz mi,|Trójco Œwiêta.
+{41879}{41968}Ukarz mnie!|Niech spadnie na mnie Twój gniew!
+{42006}{42121}Oczyœæ mnie z grzechów, Ojcze.
+{42217}{42260}Ojcze...
+{42339}{42411}York.|Tylko spójrzcie.
+{42440}{42541}- Ten owoc dojrza³ do zerwania.|- I nawet nie wiedz¹, ¿e tu jesteœmy.
+{42541}{42613}Zaatakujmy jutro,|zanim siê dowiedz¹.
+{42613}{42675}- Dobrze.|- Zaczekajcie.
+{42684}{42749}Przypomnia³o mi siê coœ,|co powiedzia³ nasz ojciec.
+{42752}{42807}Mówi³, ¿e najlepiej|atakowaæ angielskie miasto,
+{42809}{42869}gdy obchodz¹ dzieñ|któregoœ z ich œwiêtych.
+{42869}{42967}Wtedy wiêkszoœæ mieszkañców|albo jest w koœciele, albo jest pijana.
+{42967}{43075}- Ale jak to sprawdziæ?|- Coœ wymyœlimy.
+{44689}{44782}Jeœli powiecie nam prawdê,
+{44842}{44888}nie skrzywdzimy was.
+{45010}{45176}Kiedy wypada najbli¿szy dzieñ|jakiegoœ chrzeœcijañskiego œwiêtego?
+{45257}{45372}Za trzy dni obchodzimy|Wniebowst¹pienie Pañskie.
+{45384}{45408}Za trzy dni?
+{45672}{45777}I proszê.|Nie by³o to trudne.
+{46367}{46418}- Normanowie!|- Szykowaæ siê!
+{53121}{53174}Przytrzymajcie mu g³owê.
+{53514}{53596}Teraz mo¿esz|poca³owaæ swój krzy¿.
+{54754}{54840}Za was, drodzy bracia.|I za zdobycie Yorku.
+{54893}{54951}Za York.
+{54977}{55080}I za wszystkich naszych braci.|Nie zapominajmy o Sigurdzie.
+{55356}{55418}Za nas wszystkich.|Skol!
+{56926}{56981}Starczy!
+{57106}{57185}Jesteœ za silny, Guthrumie.
+{57204}{57283}Potrzebujesz kogoœ innego|do æwiczeñ.
+{57283}{57334}Pamiêtaj, ¿e twój ojciec|by³ wielkim wojownikiem.
+{57336}{57420}- I nadal jest.|- Nie mówiê o Bjornie,
+{57420}{57475}tylko o twoim prawdziwym ojcu,|jarlu Borgu.
+{57475}{57552}Musisz byæ z niego dumny|i nigdy o nim nie zapominaæ.
+{57554}{57614}Mimo ¿e Ragnar go zabi³,
+{57614}{57713}to wiem, ¿e wspólnie walcz¹|i ucztuj¹ w Walhalli.
+{57758}{57801}£odzie.
+{58089}{58135}Kto to?
+{58226}{58295}Muszê ostrzec Lagerthê.
+{59729}{59823}Królowo Lagertho,|przynoszê wspania³e wieœci.
+{59851}{59933}Wielka Armia pod dowództwem twego syna,|Bjorna ¯elaznobokiego,
+{59933}{60024}pomœci³a œmieræ Ragnara Lothbroka.
+{60045}{60122}Król Ella i król Egbert nie ¿yj¹.
+{60122}{60218}Ten ostatni tu¿ przed œmierci¹|przekaza³ nam ziemiê,
+{60218}{60283}na której za³o¿ymy koloniê.
+{60328}{60441}Dziêkujê, królu Haraldzie.|Ale dlaczego nie mówi mi tego mój syn?
+{60443}{60501}- Czy¿by zgin¹³?|- Sk¹d¿e.
+{60513}{60659}Z synów Ragnara zgin¹³ tylko Sigurd.|Zabi³ go jego w³asny brat, Ivar.
+{60813}{60913}Zapytam zatem ponownie.|Dlaczego nie ma tu Bjorna?
+{60954}{61057}Og³osi³, ¿e znów pragnie po¿eglowaæ|w kierunku Morza Œródziemnego.
+{61057}{61172}Prosi³, bym przekaza³|wyrazy szacunku jego matce,
+{61194}{61287}a tak¿e Torvi,|matce jego dzieci.
+{61383}{61484}Co tak naprawdê ciê tu sprowadza,|królu Haraldzie?
+{61489}{61539}Ju¿ powiedzia³em.
+{61539}{61640}Skoro twój w³asny syn|nie chcia³ przybyæ z wieœciami,
+{61671}{61755}uzna³em,|¿e ja powinienem to zrobiæ.
+{61762}{61844}A myœla³am,|¿e chcia³eœ sprawdziæ,
+{61846}{61930}czy Egil Bêkart|odniós³ zwyciêstwo.
+{61995}{62115}Byæ mo¿e spodziewa³eœ siê,|¿e to on bêdzie siedzia³ na tronie,
+{62158}{62213}trzymaj¹c go dla ciebie.
+{62294}{62352}Mo¿e i tak by³o.
+{62496}{62606}Prawda mo¿e byæ zgubna|dla rozs¹dnego cz³owieka.
+{62719}{62798}Nigdy nie zarzucono mi|bycia m¹drym.
+{62800}{62908}- A ja nie uwa¿a³am ciê za g³upca.|- Wiesz, co mówi¹ ludzie.
+{62913}{63019}Jeœli g³upiec uparcie d¹¿y do celu,|mo¿e staæ siê m¹dry.
+{63083}{63167}Bogowie mog¹ nie daæ ci tyle czasu.
+{63230}{63297}Nie mogê ich za nic winiæ.
+{63299}{63390}Tak wiele ju¿ mi podarowali.
+{63616}{63678}Z chêci¹ przyjmê œmieræ.
+{63898}{63990}Nie bój siê tego zrobiæ.|Zabij mnie.
+{64109}{64167}No dalej!
+{64215}{64258}No dalej!
+{66282}{66349}Wasza Mi³oœæ,|przybywam z wieœciami.
+{66349}{66452}Normanowie zdobyli York|i zabili wielu mieszkañców.
+{66471}{66565}Zamordowali biskupa Cyneberta|w bestialski sposób.
+{66675}{66766}A zatem wiemy,|jak trzeba im siê odp³aciæ.
+{67430}{67514}- Przyzna³eœ siê do winy.|- Tak.
+{67524}{67643}- Chcia³em, by wszyscy to us³yszeli.|- Dlaczego mia³abym ciê nie zabiæ?
+{67711}{67792}Nie masz powodu,|by mnie zabijaæ.
+{67814}{67869}Doprawdy?
+{67919}{67994}A nie mam czasem ich wiele?
+{68089}{68142}Nie.
+{68166}{68269}Wszystko siê zmieni³o.|Zrobi³em to dla pewnej kobiety.
+{68303}{68425}Ona jednak nie chcia³a mnie poœlubiæ,|dopóki nie zostanê królem Norwegii.
+{68461}{68552}To by³ kolejny krok do celu.|Zrobi³em to z namiêtnoœci.
+{68636}{68679}Kocha³em j¹.
+{68682}{68763}Dlatego próbowa³em|zaj¹æ twoje królestwo.
+{68766}{68859}Nie mam nic do ciebie.|Chcia³em po prostu byæ jej godny.
+{68859}{68974}- A dlaczego wszystko siê zmieni³o?|- Ok³ama³a mnie.
+{69017}{69080}Nie potrafi³a zaczekaæ,|a¿ zostanê królem Norwegii.
+{69082}{69190}- Wysz³a za duñskiego jarla.|- I co zrobi³eœ w zwi¹zku z tym?
+{69238}{69298}Zabi³em j¹.
+{69303}{69478}A teraz, gdy jest ju¿ martwa,|nie mam zamiaru atakowaæ Kattegat
+{69478}{69562}ani usuwaæ ciê z tronu.
+{69641}{69799}- Jakie wiêc masz dalsze plany?|- Zaoferowaæ ci przyjaŸñ i sojusz.
+{69809}{69904}Myœlisz, ¿e w obecnej sytuacji|mo¿esz mi cokolwiek zaoferowaæ?
+{69904}{70029}Nadal jestem królem!|Panujê nad wieloma ziemiami.
+{70063}{70144}- A ja jestem królow¹.|- Dok³adnie.
+{70144}{70221}A ja najlepiej wiem,
+{70221}{70382}¿e Kattegat i jego piêkna królowa|znajduj¹ siê w ci¹g³ym zagro¿eniu.
+{70406}{70492}Mo¿e min¹æ sporo czasu,|zanim powróci twój syn.
+{70492}{70583}A jak bardzo ufasz|pozosta³ym synom Ragnara?
+{70590}{70691}Czy¿by nie chcieli ju¿|pomœciæ œmierci matki?
+{70708}{70808}WyobraŸ ich sobie|jako królów tego miejsca.
+{70808}{70897}Czego pragniesz|w zamian za ten sojusz?
+{70911}{71003}Ty nie masz mê¿czyzny,|ja nie mam kobiety.
+{71036}{71125}Byæ mo¿e to odpowiedŸ|na twoje pytanie.
+{71259}{71319}Królu Haraldzie,|czy¿byœ naprawdê uwa¿a³,
+{71319}{71403}¿e rzucê siê do twoich stóp
+{71417}{71518}i bêdê dziêkowaæ bogom,|¿e chcia³byœ zostaæ moim mê¿em?
+{71564}{71647}I zapewne powinnam|byæ ci wdziêczna,
+{71652}{71736}¿e zechcia³byœ|zaszczyciæ moje ³o¿e?
+{71741}{71842}A wszystko to by³oby|sk¹pane w blasku twojej chwa³y?
+{72223}{72290}Co ty wyprawiasz, kobieto?
+{74098}{74158}Przepuœæcie nas.
+{74223}{74292}Wiecie, kim jesteœmy?
+{74292}{74400}Wiemy.|Czego tu szukasz?
+{74407}{74469}Chcê pomówiæ z moim bratem Ivarem.|ZejdŸ mi z drogi.
+{74472}{74575}- Zapytam go o zgodê.|- Nie, nie zapytasz.
+{74606}{74678}Bez jêzyka bêdzie ci ciê¿ko.
+{74683}{74805}Przybijê ciê do tamtego s³upa.|Dotar³o?
+{75436}{75524}Rozejrzeliœcie siê po mieœcie?|Nasi ludzie szybko wzmacniaj¹ obronê.
+{75527}{75608}- Po co ci gwardziœci?|- Co?
+{75623}{75714}Zatrzymali nas twoi gwardziœci.|Po co ci oni?
+{75719}{75824}- Aby chronili ciê przed w³asnymi braæmi?|- Oczywiœcie, ¿e nie.
+{75826}{75901}- To po co ci oni?|- Jestem kalek¹.
+{75903}{76018}- Potrzebujê kogoœ do ochrony.|- Nie chodzi tylko o to.
+{76023}{76119}Nigdy niczego z nami|nie konsultujesz.
+{76138}{76234}Jakbyœ uwa¿a³ siê|za dowódcê Wielkiej Armii.
+{76378}{76527}- Uwa¿asz siê za kogoœ takiego?|- Nie. Sk¹d taki pomys³?
+{76531}{76625}Dobrze, ¿e tak mówisz,|bo nie jesteœ dowódc¹.
+{76625}{76730}Dowodzimy razem.|Tego chcia³by nasz ojciec.
+{76733}{76831}Jesteœmy od ciebie starsi.|Nie mo¿esz nas ignorowaæ.
+{76838}{76908}Masz racjê, Hvitserk.
+{76946}{77083}Ale musicie zrozumieæ,|¿e ciê¿ko mi jest walczyæ o swoje.
+{77102}{77148}Chcê byæ na równi z wami,
+{77148}{77243}ale by to osi¹gn¹æ,|muszê staæ siê od was lepszy.
+{77253}{77351}Muszê sprawiæ, byœcie zapomnieli,|¿e jestem kalek¹.
+{77371}{77464}Dobrze wiemy, kim jesteœ.|I akceptujemy to.
+{77495}{77582}To niczego nie zmienia.|Jesteœ naszym bratem.
+{77582}{77704}Nie próbuj wywo³ywaæ u nas wspó³czucia,|bo nigdy ci siê to nie uda, bracie.
+{77797}{77881}Zmierzaj¹ tu powa¿ne si³y Sasów.
+{78008}{78085}Myœla³em, ¿e ju¿ o tym wiesz.
+{78862}{78929}- I jak?|- Wyt³umaczy³ mi siê.
+{78931}{79008}Wyt³umaczy³,|dlaczego próbowa³ nas pozabijaæ?
+{79008}{79068}By³ zakochany.
+{79085}{79150}Ale ju¿ nie jest.
+{79207}{79250}I chce zawrzeæ z nami uk³ad.
+{79253}{79337}Powiedzia³aœ mu,|¿e nie uk³adamy siê z mordercami?
+{79339}{79394}Powiedzia³am mu,|¿e to zale¿y od oferty.
+{79397}{79538}- A co takiego oferuje?|- Sojusz i ochronê.
+{79543}{79629}- W zamian za...?|- Ma³¿eñstwo.
+{79684}{79773}I to wszystko?|Chyba tego nie rozwa¿asz?
+{79773}{79847}- Czy¿by nie wiedzia³, kim jesteœ?|- Dobrze o tym wie.
+{79847}{79926}- Nie tknê³abym go wios³em.|- Nie udawaj takiej niewinnej.
+{79929}{80015}Czasami kobiety id¹ na ustêpstwa,|by zachowaæ w³adzê.
+{80018}{80116}- Wed³ug ciebie.|- Torvi ma trochê racji.
+{80133}{80224}Ale nie zamierzam go poœlubiæ.
+{80226}{80320}- W takim razie go zabijesz?|- To nie twoja sprawa.
+{80320}{80399}- Nie mo¿esz go uwolniæ.|- To bêdzie tylko moja decyzja.
+{80401}{80521}- Po prostu siê o ciebie martwiê.|- Dziêkujê, ale sama podejmê decyzjê.
+{82221}{82276}Wios³owaæ.
+{82789}{82830}- Odp³ynêli.|- Kto?
+{82832}{82890}Król Harald i jego ludzie.
+{82890}{82979}Uwolnili go|i zabili naszych stra¿ników.
+{82981}{83053}- Gdzie jest Astrid?|- Astrid?
+{83415}{83475}{Y:i}- Wios³owaæ!|- Nie zwalniaæ tempa!
+{84139}{84249}- Po co mnie porwa³eœ?|- Bardzo mi pomo¿esz.
+{84283}{84448}S¹dzê, ¿e Lagertha niebawem|przestanie byæ królow¹ Kattegat.
+{84479}{84566}A ja nadam chcê tam rz¹dziæ.
+{84626}{84738}Nadal zamierzam zostaæ|królem Norwegii.
+{84767}{84877}Co oznacza, ¿e podbijê Kattegat|i pozosta³e królestwa.
+{84901}{84995}Pozostajê jednak bez ¿ony.|Potrzebujê królowej.
+{85014}{85088}Muszê sp³odziæ synów.
+{85122}{85242}- Mam zostaæ twoj¹ królow¹?|- A dlaczego nie?
+{85268}{85388}Lagertha by³a dla mnie bardzo dobra.|Zawdziêczam jej wszystko.
+{85412}{85510}Czyli nigdy mnie nie poœlubisz?
+{85525}{85556}Nigdy.
+{85558}{85647}Nawet gdybyœ dziêki temu|zosta³a królow¹ Norwegii?
+{85649}{85733}Najpotê¿niejsz¹ kobiet¹|w ca³ym naszym œwiecie?
+{85793}{85920}Odpowiedz szczerze, Astrid.|Nie poci¹ga ciê taka wizja?
+{85942}{86067}Czy myœl o tym nie sprawia,|¿e krew kr¹¿y w tobie szybciej?
+{86093}{86151}Czy w twoim oku|nie pojawi³ siê b³ysk?
+{86194}{86266}A mo¿e Ÿle ciê oceni³em?
+{86829}{86889}Jakie wieœci?
+{86891}{86992}Naprawiaj¹ i wzmacniaj¹|miejskie fortyfikacje, Wasza Mi³oœæ.
+{86995}{87071}- Pracowici z nich ludzie.|- To poganie i diab³y.
+{87071}{87141}- Mów dalej.|- Miasto jest dobrze bronione.
+{87143}{87261}Wybacz, panie, ale nie ma nadziei|na zdobycie go z marszu.
+{87297}{87390}Nie zgadzam siê.|I jestem pe³en nadziei na zwyciêstwo.
+{87395}{87522}Szkoda, ¿e nie ma z nami nowego króla.|Móg³by podnieœæ morale œwie¿ych rekrutów.
+{87551}{87632}W odró¿nieniu od ojca|ws³awi³ siê jako wojownik.
+{88356}{88428}Co zrobimy z Alfredem?
+{88522}{88601}Dlaczego zawsze musimy|rozmawiaæ o Alfredzie?
+{88661}{88735}Bo on umiera.
+{88742}{88812}Umiera na naszych oczach.
+{88845}{88905}Nie widzisz tego?
+{89025}{89066}Alfredzie?
+{89464}{89507}Co on robi?
+{91452}{91495}Uratuj go!
+{91598}{91651}Uratuj mojego synka!
+{91811}{91862}Z drogi!
+{92219}{92291}B³agam, nie!
+{92336}{92377}Mój synek!
+{92535}{92600}¯yje!
+{92818}{92897}- Próbuje coœ powiedzieæ.|- York...
+{92897}{92996}- Musimy jechaæ do Yorku.|- Dlaczego?
+{93084}{93152}S¹ tam Normanowie.
+{93231}{93307}Twoi poddani ciê potrzebuj¹.
+{93387}{93461}Alfredzie, sk¹d o tym wiesz?
+{93497}{93557}Powiedzia³ mi o tym mój ojciec.
+{94199}{94254}Bogowie!
+{94362}{94420}Tylko nie w taki sposób.
+{94453}{94525}Nie chcê tak umieraæ.
+{94595}{94652}Dlaczego mnie opuœciliœcie?
+{94758}{94839}Hajmdalu, wielki stra¿niku...
+{94890}{94955}Mo¿esz za mnie porêczyæ!
+{94976}{95060}Powiedz pozosta³ym bogom,|jak czêsto o nich myœlê
+{95070}{95144}i jak bardzo ich kocham.
+{95540}{95652}Leæ, ptaszku.|ZnajdŸ skrawek l¹du i zostañ tam.
+{95693}{95796}I nie wa¿ siê wracaæ!
+{95911}{95964}{y:i}Utrzymaæ szyk!
+{96057}{96110}Z ¿yciem!
+{97031}{97096}Dlaczego mia³by porwaæ Astrid?
+{97110}{97206}Król Harald zawsze ma jakiœ plan.
+{97206}{97316}Powiedzia³ mi, ¿e nie pragnie ju¿|zostaæ królem Norwegii.
+{97321}{97381}Na pewno k³ama³.
+{97383}{97556}Nadal œni o tym, ¿e pewnego dnia|ponownie zaatakuje Kattegat.
+{97566}{97673}Astrid musi byæ czêœci¹ tego planu,|choæ nie wiem, jak mog³aby mu pomóc.
+{97673}{97772}Astrid nigdy nie stanie siê|czêœci¹ czyjegokolwiek planu.
+{97801}{97925}Jestem ju¿ na tyle stara, by wiedzieæ,|¿e ludzie zawsze mog¹ ciê zaskoczyæ.
+{98081}{98129}Czujê ju¿ dom!
+{98493}{98553}Niebawem bêdziemy na miejscu.
+{98827}{98889}Myœla³aœ o mojej propozycji?
+{98997}{99102}Pewnie ci siê nie podobam,|ale jeszcze zmienisz zdanie.
+{99102}{99217}Nigdy ciê nie poœlubiê.|Pope³ni³eœ fatalny b³¹d.
+{99246}{99333}To prawda.|Nigdy nie mia³em szczêœcia do kobiet.
+{99342}{99464}Ale co, jeœli przez pomy³kê|lub przypadek,
+{99481}{99551}lub prowadzony rêk¹ bogów|czy te¿ przeznaczenia
+{99553}{99659}podj¹³em w³aœciw¹ decyzjê?|Co, jeœli mia³aœ mnie napotkaæ?
+{99673}{99783}Co, jeœli to jest miejsce,|do którego mia³aœ ostatecznie trafiæ?
+{100402}{100438}Staæ!
+{100498}{100553}Z koni!
+{100622}{100682}- Sk¹d przybywacie?|- Z Wessex.
+{100682}{100798}- Jesteœmy tu z naszym królem.|- Królem Ethelwulfem, synem Egberta?
+{100809}{100857}Jego wojska s¹ tu¿ za nami.
+{100857}{100985}Przyby³em tu z biskupem Heahmundem,|który rozbi³ obóz niedaleko st¹d.
+{100985}{101064}- Jestem lord Denewulf.|- Witaj, panie.
+{101090}{101160}- Raduje mnie twój widok.|- To szczêœliwy dzieñ.
+{101162}{101219}Biskup nie móg³ siê doczekaæ,|a¿ król do niego do³¹czy.
+{101222}{101320}A teraz za spraw¹ boskiej woli|jego nadzieje siê spe³ni³y.
+{102169}{102265}Mój szlachetny królu,|mianowany ³ask¹ bosk¹.
+{102368}{102430}Szanowny biskupie.
+{102457}{102567}Dosz³y nas s³uchy|o twej walecznoœci i pobo¿noœci.
+{102586}{102648}Ufamy, ¿e bêdziemy mogli|pójœæ w twoje œlady.
+{102648}{102701}To moja ¿ona, Judyta.
+{102737}{102773}Pani.
+{102780}{102886}Zjedzcie coœ i odpocznijcie|po wyczerpuj¹cej podró¿y.
+{102946}{103049}Pani, wykazujesz siê wielk¹ odwag¹,|towarzysz¹c mê¿owi.
+{103058}{103133}Nie jestem a¿ tak odwa¿na.
+{103133}{103255}Ale có¿ innego mog³am uczyniæ,|skoro mój m¹¿ i syn ruszaj¹ do bitwy?
+{103255}{103305}Szlochaæ i modliæ siê w domu?
+{103322}{103452}Jako córka króla Elli|te¿ pragnê siê zemœciæ na synach Ragnara.
+{103488}{103562}Bior¹c na œwiadka naszego Boga,|który jest mi³osierny, ale i mœciwy,
+{103562}{103672}przysiêgam, ¿e ci poganie zap³ac¹|za pope³nione okrucieñstwa i zbrodnie.
+{103946}{104005}- Ksi¹¿ê Alfredzie?|- Tak?
+{104005}{104080}S³ysza³em ju¿|wiele historii o tobie.
+{104082}{104154}O tym, ¿e za m³odu wybra³eœ siê do Rzymu|i pozna³eœ Jego Œwi¹tobliwoœæ.
+{104157}{104209}Tak.|Zabra³ mnie tam mój ojciec.
+{104212}{104281}To musia³a byæ wyczerpuj¹ca podró¿|dla kogoœ tak m³odego.
+{104284}{104382}Wszystko, co cenne w tym œwiecie,|wi¹¿e siê z trudnoœciami, nieprawda¿?
+{104382}{104449}Dobrze powiedziane.|Kto by³ twoim nauczycielem?
+{104449}{104521}Mój dziadek, król Egbert.
+{104521}{104610}Nigdy nie pozna³em bardziej m¹drego|i mi³uj¹cego cz³owieka.
+{104612}{104720}Barbarzyñcy, którzy zajêli York,|odpowiadaj¹ za jego œmieræ.
+{104734}{104806}Dlatego tu jesteœmy.
+{104818}{104926}Wzmocnili miejskie fortyfikacje.
+{104950}{105027}Naprawili i rozbudowali|mury obronne.
+{105027}{105118}- To niedobre wieœci.|- Te¿ tak s¹dzi³em.
+{105142}{105238}Ale moi zwiadowcy|zauwa¿yli coœ obiecuj¹cego.
+{105240}{105370}Nie chcieli lub nie potrafili naprawiæ|dawnych rzymskich murów.
+{105382}{105456}W kilku miejscach|s¹ one w s³abym stanie.
+{105456}{105545}Kamienie s¹ poluzowane|i mog¹ odpaœæ.
+{105547}{105648}Mimo tego nie wys³ano tam|nikogo do obrony.
+{105672}{105751}- No to mamy plan ataku.|- Tak.
+{105773}{105864}Ale sugerujê,|abyœmy poczekali.
+{105897}{105986}Nie dzia³ajmy pochopnie.|Niech nasze si³y siê po³¹cz¹.
+{105988}{106132}Niech moi zwiadowcy upewni¹ siê,|¿e ten odcinek pozostaje niestrze¿ony.
+{106139}{106218}- A póŸniej?|- Zgadza siê, mój ksi¹¿ê.
+{106223}{106305}Wtedy zaatakujemy.
+{106379}{106420}Zwiadowcy!
+{116617}{116718}{Y:i}Wszechojcze,|dziêkujê ci za te widoki.
+{116744}{116878}{Y:i}Dziêkujê tobie, Njordowi i walkiriom|za sprowadzenie mnie tutaj.
+{117092}{117125}Tarcza wy¿ej!
+{117341}{117456}- Co s¹dzisz o b³êdzie Lagerthy?|- Jakim b³êdzie?
+{117480}{117600}Powinna by³a zabiæ króla Haralda,|zamiast wchodziæ z nim w pertraktacje.
+{117602}{117636}Byæ mo¿e.
+{117638}{117729}I nie pozwoliæ,|by nasz wróg uciek³.
+{117741}{117837}- Astrid przyp³aci to ¿yciem.|- Nie wiadomo.
+{117873}{117974}Mówiê tylko,|¿e Lagertha nie jest nieomylna.
+{117981}{118108}Pope³nia b³êdy.|Mo¿e jej stanowczoœæ podupada.
+{118127}{118173}Nie dostrzegasz tego?
+{120702}{120815}To Asgard!|Jestem w Asgardzie!
+{120822}{120882}Trafi³em do ziemi bogów!
+{121453}{121508}Ivarze?
+{121566}{121661}- Co robisz?|- Poczekaj, a zobaczysz.
+{121774}{121805}Gotowe.
+{123886}{123956}.:: GrupaHatak.pl ::.
+{124004}{124076}.:: Napisy24.pl - Wprost od t³umaczy ::.
